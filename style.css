@@ -1,0 +1,13 @@
+html, body {
+  height: 100%;
+  width: 100%;
+}
+h1 {
+  font-family: cursive;
+  font-size: 60px;
+  color: royalblue;
+}
+p{
+  font-size: 30px;
+  font-family: cursive;
+}
